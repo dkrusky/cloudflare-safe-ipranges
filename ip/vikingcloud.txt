@@ -1,0 +1,8 @@
+34.33.2.64/26, PCI Scanner - VikingCloud - Google
+158.101.209.126, PCI Scanner - VikingCloud - Oracle
+141.144.196.156, PCI Scanner - VikingCloud - Oracle
+154.59.121.0/24, PCI Scanner - VikingCloud
+139.87.117.66, PCI Scanner - VikingCloud
+139.87.112.0/23, PCI Scanner - VikingCloud
+139.87.104.123, PCI Scanner - VikingCloud
+64.39.96.0/20, PCI Scanner - VikingCloud (Qualys Engine)
